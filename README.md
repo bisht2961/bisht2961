@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin Bisht</h1>
-<h3 align="center">A passionate Android Developer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer from India. Currently working as a specialist programmer at Infosys.</h3>
 
-- 🔭 I’m currently working on **Flutter Chat Application Project**
-
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on **AI Resume Generator using Python and React.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bisht2961](https://github.com/bisht2961)
 
-- 💬 Ask me about **Android Development using Java/Kotlin**
+- 💬 Ask me about **Backend Development using Java/Python or Frontend Development using React.**
 
 - 📫 How to reach me **bisht18sachin@gmail.com**
 
